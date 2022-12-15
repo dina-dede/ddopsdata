@@ -1,6 +1,5 @@
 {
 	"name": "AzureMLService",
-	"type": "Microsoft.DataFactory/factories/linkedservices",
 	"properties": {
 		"annotations": [],
 		"type": "AzureMLService",
@@ -10,5 +9,6 @@
 			"mlWorkspaceName": "ddAMLpipes",
 			"authentication": "MSI"
 		}
-	}
+	},
+	"type": "Microsoft.DataFactory/factories/linkedservices"
 }
