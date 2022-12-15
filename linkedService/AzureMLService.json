@@ -1,0 +1,14 @@
+{
+	"name": "AzureMLService",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureMLService",
+		"typeProperties": {
+			"subscriptionId": "1a684ea6-72d8-4872-9f03-6c51ed5d745a",
+			"resourceGroupName": "ddtest",
+			"mlWorkspaceName": "ddAMLpipes",
+			"authentication": "MSI"
+		}
+	}
+}

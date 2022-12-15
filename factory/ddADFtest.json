@@ -1,0 +1,9 @@
+{
+	"name": "ddADFtest",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2dd503ec-d8c3-4efe-b3e9-c8ac0f04485e",
+		"tenantId": "16b3c013-d300-468d-ac64-7eda0820b6d3"
+	}
+}
